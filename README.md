@@ -1,7 +1,7 @@
 # CricketGame
 
 
-###Description to Run the Code:
+### Description to Run the Code:
 
 - After the code is running, the start page of the game is displayed. To start playing the game, the spacebar on the keyboard needs to be pressed and this is indicated on the start page as well.
   After the spacebar on the keyboard is pressed the game will start.
